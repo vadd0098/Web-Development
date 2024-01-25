@@ -1,1 +1,3 @@
 Hello Google!!
+take input from user
+add the values
